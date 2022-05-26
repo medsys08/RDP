@@ -1,6 +1,5 @@
 name: Win
 
-on: 
   workflow_dispatch:
     inputs:
       authcode:
